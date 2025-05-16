@@ -10,4 +10,4 @@
 ### MediumValue.js
 #### Arquivo JavaScript que busca calcular o valor médio de f(x) usando o Teorema do valor médio da integral (Imagem em anexo)
 
-![Teorema-do-Valor-Medio](https://i.ibb.co/kgkxXHZH/Screenshot-40.png)
+![Teorema-do-Valor-Medio](https://i.ibb.co/JFFCYzMS/Screenshot-41.png)
