@@ -33,7 +33,7 @@ let f = function(x) {
 
  //Declaração do começo e final da função total
  let a = 0; //Início
- let b = 32; //Final
+ let b = 33; //Final
  var valormedio = 0;
  
  
